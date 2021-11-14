@@ -1,0 +1,20 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/stone56/Documents/GitHub/seoulgood.github.io/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/stone56/Documents/GitHub/seoulgood.github.io/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/stone56/Documents/GitHub/seoulgood.github.io/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
